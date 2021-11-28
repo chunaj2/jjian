@@ -667,7 +667,7 @@
       ]
     }
   ],
-  "spider": "https://gitee.com/chunaj2/jjian/raw/master/custom_spider.jar",
+  "spider": "https://github.com/chunaj2/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
